@@ -5,7 +5,6 @@ Pero Kanger :)
 <p align="center">
   <img src="IMG_20260930_231118_914.jpg" width="60%" alt="prabOwO" />
 </p>
-![PrabOwO's GitHub Stats](https://vercel.app)
 
 
 
